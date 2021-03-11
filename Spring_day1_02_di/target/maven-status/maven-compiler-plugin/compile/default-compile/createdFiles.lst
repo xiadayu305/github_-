@@ -1,0 +1,7 @@
+cn\ustc\service\impl\UserServiceImpl.class
+cn\ustc\dao\UserDao.class
+cn\ustc\dao\BookDao.class
+cn\ustc\UserApp.class
+cn\ustc\dao\impl\UserServiceImpl.class
+cn\ustc\service\UserService.class
+cn\ustc\dao\impl\BookDaoImpl.class
